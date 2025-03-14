@@ -1,0 +1,5 @@
+<!ELEMENT Kütüphane (Kitap+)>
+<!ELEMENT Kitap (Başlık, Yazar, Yıl)>
+<!ELEMENT Başlık (#PCDATA)>
+<!ELEMENT Yazar (#PCDATA)>
+<!ELEMENT Yıl (#PCDATA)>

@@ -1,0 +1,15 @@
+<!DOCTYPE Kütüphane SYSTEM "kütüphane.dtd">
+<Kütüphane>
+    <Kitap>
+         <Başlık>Halil</Başlık>
+         <Yazar>E.R.</Yazar>
+         <Yıl>2008</Yıl>
+    </Kitap>
+      <Kitap>
+         <Başlık>Günlüklerim</Başlık>
+         <Yazar>T.E.</Yazar>
+         <Yıl>2010</Yıl>
+    </Kitap>
+
+
+</Kütüphane>
